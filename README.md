@@ -2,6 +2,9 @@
 
 > the reproduction project of an issue
 
+# stepts to reproduce
+Clone the repo, run `npm install` and start dev server with `npm run dev` command, open `http://localhost:3000` in browser, copy link with text 'ANCHOR', try to open it in new tab.
+
 ## Build Setup
 
 ```bash
